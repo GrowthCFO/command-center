@@ -5,6 +5,7 @@ Static host for CFOLogic Command Center demos — `commandcenter.cfologic.com`.
 | Path | Demo |
 | --- | --- |
 | `/compliancedemo` | Compliance Command Center — multi-country statutory compliance calendar (Meridian Advanced Engineering, demo data) |
+| `/p2pdemo` | P2P Command Center — purchase-to-pay control across PR, PO, GR/SE, invoice and payment (Brazos Copper Baytown, fictional demo data) |
 
 Each demo is a single self-contained HTML file (React, fonts and data inlined;
 no external requests) at `<name>/index.html`. To add one, drop a new folder with
